@@ -1,7 +1,7 @@
 ### Due to constant Discord terminations I will not be making a new support server. For urgent contact: iwannaeatahamster#2208
 
 ## Mercurial Preview
-![preview](https://media.discordapp.net/attachments/1052407127970414623/1069020317718159481/image.png)
+![preview](https://user-images.githubusercontent.com/75003671/120157017-26796300-c225-11eb-8f84-7428165ca672.gif)
 ![preview](https://cdn.discordapp.com/attachments/1052407127970414623/1069020476950712450/image.png)
 ![preview](https://cdn.discordapp.com/attachments/1052407127970414623/1069020514372300810/image.png)
 ![preview](https://cdn.discordapp.com/attachments/1052407127970414623/1069020572530524240/image.png)
