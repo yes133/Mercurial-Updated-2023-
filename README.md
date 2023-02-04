@@ -1,9 +1,11 @@
 ## Builder Preview
 ![preview](https://media.discordapp.net/attachments/1052407127970414623/1069020317718159481/image.png)
-![preview](https://media.discordapp.net/attachments/1052407127970414623/1069020317718159481/image.png)
+![preview](https://cdn.discordapp.com/attachments/1052407127970414623/1069020476950712450/image.png)
+![preview](https://cdn.discordapp.com/attachments/1052407127970414623/1069020514372300810/image.png)
+![preview](https://cdn.discordapp.com/attachments/1052407127970414623/1069020572530524240/image.png)
 
 ## Features What is Mercurial?
-Mercurial is the best **FREE** logger you can get currently, don't fall for other scams. Mercurial works as of 1/28/2023.
+Mercurial is the best **FREE** logger you can get currently, don't fall for other scams. Mercurial works as of 2/4/2023.
 
 ## Features 
 - Grabs Roblox cookies from Roblox Studio
@@ -21,7 +23,8 @@ Mercurial is the best **FREE** logger you can get currently, don't fall for othe
 ## Customization
 - Add a custom icon
 - Custom exe name
-
+- Toggle RGB
+- Change Transparency
 
 ## Info
 Please do not use the program maliciously. This program is intended to be used for educational purposes only. Mercurial is only used to demonstrate what type of information attackers can grab from a user's computer. This is a project was created to make it easier for malware analysts or ordinary users to understand how credential grabbing works and can be used for analysis, research, reverse engineering, or review.
@@ -49,6 +52,9 @@ Tips to check if an exe file is safe:
 - Check if the exe file has a publisher
 - Check it in a sandbox
 - Monitor the file’s network activity for strange behavior
+
+Why do you need your anti-virus off for Mercurial?
+- Mercurial requires you to turn your virus off due to Mercurial having the ability to produce malicious codes.
 
 ### Educational Purposes Only
 This tool demonstrates and makes it easy to create your own grabber. This shows what type of information attackers can grab from a victim's computer. 
