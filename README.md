@@ -1,3 +1,5 @@
+### Due to constant Discord terminations I will not be making a new support server. For urgent contact: iwannaeatahamster#2208
+
 ## Builder Preview
 ![preview](https://media.discordapp.net/attachments/1052407127970414623/1069020317718159481/image.png)
 ![preview](https://cdn.discordapp.com/attachments/1052407127970414623/1069020476950712450/image.png)
@@ -10,21 +12,57 @@ Mercurial is the best **FREE** logger you can get currently, don't fall for othe
 ## Features 
 - Grabs Roblox cookies from Roblox Studio
 - Grabs Minecraft sessions 
-- Grabs Google Chrome passwords
-- Grabs Google Chrome cookies
-- Grabs Discord token
+   -   Sends Minecraft logins
+- Grabs Discord token info
+    -   Nitro
+    -   Badges
+    -   Billing
+    -   Email
+    -   Phone
+    -   HQ Guilds
+    -   HQ Friends
+    -   Gift codes
+- Grabs Brower Data
+    -   Cookies
+    -   Passwords
+    -   History
+    -   Bookmarks
+    -   Autofill
+    -   Chrome, Edge, Brave, Opera GX, and many more...
 - Grabs victim machine info
+    -   User
+    -   System
+    -   Disk
+    -   Network
+    -   WiFi
+    -   Screenshot
 - Grabs Windows product key
+   -   Sends Windows Product Key to active Windows
 - Grabs IP address, geolocation
 - Grabs screenshot
 - Anti Virutal Machine
 - Anti Debug
+    -   Checks if being run in a virustotal sandbox
+-   Discord injection
+    -   Send token, password, and email on login or when password is changed
+
 
 ## Customization
 - Add a custom icon
+
+![preview](https://cdn.discordapp.com/attachments/1052407127970414623/1071496049732091934/image.png)
+
 - Custom exe name
+
+![preview](https://cdn.discordapp.com/attachments/1052407127970414623/1071496359821201498/image.png)
+
 - Toggle RGB
+
+![preview](https://cdn.discordapp.com/attachments/1058942474279718964/1071495306996351046/image.png)
+
 - Change Transparency
+
+![preview](https://cdn.discordapp.com/attachments/1058942474279718964/1071495856114630766/image.png)
 
 ## Info
 Please do not use the program maliciously. This program is intended to be used for educational purposes only. Mercurial is only used to demonstrate what type of information attackers can grab from a user's computer. This is a project was created to make it easier for malware analysts or ordinary users to understand how credential grabbing works and can be used for analysis, research, reverse engineering, or review.
@@ -59,3 +97,14 @@ Why do you need your anti-virus off for Mercurial?
 ### Educational Purposes Only
 This tool demonstrates and makes it easy to create your own grabber. This shows what type of information attackers can grab from a victim's computer. 
 Only use this on your own PC and do not use it on other people maliciously. 
+
+## License
+
+Mercurial is licensed under the <a href="https://mit-license.org/">MIT License</a>.
+
+## Errors?
+
+-   Make an [issue](https://github.com/yes133/Mercurial-Updated-2023-/issues)
+-   Message me on [Discord]()
+
+<img src="img/footer.png">
