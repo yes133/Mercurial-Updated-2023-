@@ -1,6 +1,6 @@
 ### Due to constant Discord terminations I will not be making a new support server. For urgent contact: iwannaeatahamster#2208
 
-## Builder Preview
+## Mercurial Preview
 ![preview](https://media.discordapp.net/attachments/1052407127970414623/1069020317718159481/image.png)
 ![preview](https://cdn.discordapp.com/attachments/1052407127970414623/1069020476950712450/image.png)
 ![preview](https://cdn.discordapp.com/attachments/1052407127970414623/1069020514372300810/image.png)
@@ -105,6 +105,5 @@ Mercurial is licensed under the <a href="https://mit-license.org/">MIT License</
 ## Errors?
 
 -   Make an [issue](https://github.com/yes133/Mercurial-Updated-2023-/issues)
--   Message me on [Discord]()
-
-<img src="img/footer.png">
+-   Message me on Discord
+    -   iwannaeatahamster#2208
